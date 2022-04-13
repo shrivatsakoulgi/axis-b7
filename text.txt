@@ -1,0 +1,2 @@
+Hello. this is day 1 of training.
+we're learning Git repository basics.
