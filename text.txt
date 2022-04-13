@@ -1,2 +1,3 @@
-Hello. this is day 1 of training.
+This is day 2 of training.
 we're learning Git repository basics.
+we are storing data in new branch.
