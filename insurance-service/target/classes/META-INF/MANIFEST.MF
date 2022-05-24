@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: insurance-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Shrivatsa
+Implementation-Vendor-Id: com.capgmenini
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/insurance-s
+ ervice
+Created-By: Maven Integration for Eclipse
+
